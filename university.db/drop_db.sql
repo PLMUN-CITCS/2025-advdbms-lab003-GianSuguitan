@@ -1,2 +1,2 @@
-USE 'UniversityDB';
-DROP DATABASE IF EXIST 'UniversityDB';
+USE UniversityDB;
+DROP DATABASE IF EXIST UniversityDB;
